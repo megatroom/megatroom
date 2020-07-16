@@ -1,4 +1,4 @@
-![Nardini Academy](nardini_academy.jpg)
+![Nardini Academy](https://raw.githubusercontent.com/megatroom/megatroom/master/nardini_academy.jpg)
 
 ### Hi there  👋
 
